@@ -1,1 +1,1 @@
-### [in progress] decentralized crypto exchange -- paper trading platform for beginner crypto traders
+### [in progress] decentralized lottery platform; utilizes chainlink VRF oracle for randomization
